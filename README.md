@@ -13,6 +13,13 @@
  ## Analysis and Visualizations
  
  The analysis follows several key steps, from initial data exploration to stationarity testing and transformation.
+ 
+ <img width="1006" height="556" alt="image" src="https://github.com/user-attachments/assets/34293747-2a60-41c3-9715-be0480813b78" />
+ <img width="1006" height="556" alt="image" src="https://github.com/user-attachments/assets/2c59b199-ef37-4de7-9d3d-645b013ffc37" />
+ <img width="599" height="463" alt="image" src="https://github.com/user-attachments/assets/1ba7b5f8-80ca-463f-934a-46b600095abc" />
+ <img width="995" height="532" alt="image" src="https://github.com/user-attachments/assets/40e80cb5-1330-4691-825b-270af4287497" />
+
+
  <img width="1006" height="556" alt="image" src="https://github.com/user-attachments/assets/f9076cd5-350d-43d9-9596-e274c8a52d29" />
 
  
