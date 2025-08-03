@@ -13,6 +13,8 @@
  ## Analysis and Visualizations
  
  The analysis follows several key steps, from initial data exploration to stationarity testing and transformation.
+ <img width="1006" height="556" alt="image" src="https://github.com/user-attachments/assets/f9076cd5-350d-43d9-9596-e274c8a52d29" />
+
  
  
  ### 1. Data Exploration and Resampling
